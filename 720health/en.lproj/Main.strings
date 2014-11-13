@@ -1,0 +1,24 @@
+
+/* Class = "IBUITabBarItem"; title = "首页"; ObjectID = "Dc0-sQ-aoM"; */
+"Dc0-sQ-aoM.title" = "首页";
+
+/* Class = "IBUIButton"; normalTitle = "登录"; ObjectID = "FrI-YI-mAH"; */
+"FrI-YI-mAH.normalTitle" = "登录";
+
+/* Class = "IBUILabel"; text = "我的"; ObjectID = "WxM-sg-ChR"; */
+"WxM-sg-ChR.text" = "我的";
+
+/* Class = "IBUITabBarItem"; title = "日历"; ObjectID = "dwh-O0-wAY"; */
+"dwh-O0-wAY.title" = "日历";
+
+/* Class = "IBUITabBarItem"; title = "我的"; ObjectID = "fQK-ye-4on"; */
+"fQK-ye-4on.title" = "我的";
+
+/* Class = "IBUITextField"; placeholder = "手机号/用户名"; ObjectID = "jOx-07-r7h"; */
+"jOx-07-r7h.placeholder" = "手机号/用户名";
+
+/* Class = "IBUITextField"; placeholder = "密码"; ObjectID = "oMb-TT-KYi"; */
+"oMb-TT-KYi.placeholder" = "密码";
+
+/* Class = "IBUITabBarItem"; title = "分析"; ObjectID = "uPC-e2-aDq"; */
+"uPC-e2-aDq.title" = "分析";

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  720health
+
+  Created by rock on 14-10-29.
+  Copyright (c) 2014年 jinggang. All rights reserved.
+*/
+
+//首页
+"Home" = "首页";
+
+//分析
+"Analyze" = "分析";
+"Day" = "日";
+"Week" = "周";
+"Month" = "月";
